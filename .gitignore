@@ -1,0 +1,23 @@
+bin/*
+output/*
+log
+
+
+# NetBeans specific #
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nbbuild.xml
+nb-configuration.xml
+
+build.xml
+manifest.mf
+
+# Class Files #
+*.class
+
+#remove experimental results
+experiment/
